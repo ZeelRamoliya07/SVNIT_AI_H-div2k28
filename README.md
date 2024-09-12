@@ -3,4 +3,4 @@ I have made different branches for each lab to access the codes of respective la
 My name is RAMOLIYA ZEEL HIRENBHAI </br>
 BTech Artificial Intelligence (2024-2028) </br>
 Roll no. A059 </br>
-Admission Number U24ai056 </br>
+Admission Number U24AI056 </br>
